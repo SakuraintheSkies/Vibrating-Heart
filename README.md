@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/SakuraintheSkies/Vibrating-Heart
    ```
 
 2. **Navigate to the project directory:**
@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 
 3. **Open the `index.html` file in your web browser:**
    ```bash
-   open index.html
+   open mj.html
    ```
 
 You should now see the vibrating heart animation in action!
@@ -48,18 +48,13 @@ You can personalize the vibrating heart by modifying the following:
 ```
 vibrating-heart/
 │
-├── index.html       # The main HTML file
+├── mj.html       # The main HTML file
 ├── styles.css       # CSS for styling the heart and animation
-└── script.js        # JavaScript for interactivity
 ```
 
 ## Contributing
 
 If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Contributions are always welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE), so you can freely use and modify it as you wish.
 
 ## Acknowledgments
 
